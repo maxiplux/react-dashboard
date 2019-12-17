@@ -14,7 +14,7 @@
   "dependencies": {
     "@babel/polyfill": "7.4.4",
     "awesome-bootstrap-checkbox": "^1.0.1",
-    "bluebird": "^3.5.5",
+    "bluebird": "^3.7.2",
     "body-parser": "^1.19.0",
     "bootstrap": "4.3.1",
     "bundle-loader": "^0.5.6",
