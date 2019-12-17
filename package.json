@@ -49,7 +49,7 @@
     "react-google-maps": "^9.4.5",
     "react-redux": "^7.1.0",
     "react-router": "5.0.1",
-    "react-router-dom": "5.0.1",
+    "react-router-dom": "5.1.2",
     "react-sparklines": "^1.7.0",
     "reactstrap": "8.0.1",
     "recharts": "^1.7.1",
