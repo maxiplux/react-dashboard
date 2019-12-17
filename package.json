@@ -26,7 +26,7 @@
     "express-jwt": "^5.3.1",
     "font-awesome": "^4.7.0",
     "glyphicons-halflings": "^1.9.1",
-    "graphql": "^14.4.2",
+    "graphql": "^14.5.8",
     "graphql-relay": "^0.6.0",
     "graphql-sequelize": "^9.3.6",
     "history": "^4.9.0",
